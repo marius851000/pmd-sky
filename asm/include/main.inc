@@ -9,6 +9,7 @@
 .public IntToFloat
 .public LoadFileInPack
 .public MultiplyFloat
+.public OpenPackFile
 .public Sprintf
 .public Sqrtf
 .public Strcat
